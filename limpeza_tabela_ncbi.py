@@ -1,6 +1,6 @@
 ##Limpeza tabela do BLAST do NCBI
 
-arq1 = open('gg.txt', 'r')
+arq1 = open('gg.txt', 'r') #arquivo contendo o output do NCBI
 l = []
 m = []
 n = []
